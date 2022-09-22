@@ -31,5 +31,5 @@
 </p>
 
 <p align='center'>
-  📫 How to reach me: <a href='mailto:kazune.takeda@yahoo.com'>greg.takeda@yahoo.com</a>
+  📫 How to reach me: <a href='mailto:greg.takeda@yahoo.com'>greg.takeda@yahoo.com</a>
 </p>
