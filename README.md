@@ -5,7 +5,7 @@
 </h1>
 
 <p align='center'>
-  <b>CTO Blockchain Developer | Smart Contract Security Engineer</b>
+  <b>Blockchain Developer | Smart Contract Security Engineer</b>
 </p>
 
 <p align='center'>
@@ -31,5 +31,5 @@
 </p>
 
 <p align='center'>
-  📫 How to reach me: <a href='mailto:kazune.takeda@yahoo.com'>kazune.takeda@yahoo.com</a>
+  📫 How to reach me: <a href='mailto:kazune.takeda@yahoo.com'>greg.takeda@yahoo.com</a>
 </p>
